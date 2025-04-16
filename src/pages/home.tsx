@@ -8,7 +8,6 @@ import HeroRight from "@/components/sections/hero/hero.right";
 import ResizeButton from "@/components/resize.button";
 import { MdFileDownload } from "react-icons/md";
 import Introduction from "@/components/sections/introduction";
-import { EXPERIENCES } from "@/helpers/data";
 import Experience from "@/components/sections/experience";
 import Skill from "@/components/sections/skill";
 const HomePage = () => {
